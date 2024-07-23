@@ -140,8 +140,8 @@ section .productos-finales .comprasss button{
     justify-content: center;
     background-color: rgb(136, 174, 245);
     margin: 0% 2%;
-    height: 380px;
-    box-shadow: 8px 8px 8px gray
+    height: 80vh;
+    box-shadow: 8px 8px 8px gray;
 }
 .izquierda h3{
     padding: 7% 5%;
